@@ -1,0 +1,44 @@
+{
+    "data" : [
+      {
+          "coord1":44.49035796040618,
+          "coord2":26.07463516764941,
+          "nume":"ICA"
+      },
+      {
+          "coord1":44.46950598854587,
+          "coord2":26.09811285200584,
+          "nume":"Resort"
+      },
+      {
+            "coord1":44.18738956416598,
+            "coord2":26.222546077265648,
+            "nume":"Schitul Barbu Bellu"
+      },
+      {
+            "coord1":45.6396103005787,
+            "coord2":25.586099581743415,
+            "nume":"Poarta Ecaterinei"
+      },
+      {
+        "coord1":45.64288315625363,
+        "coord2":25.58649479528976,
+        "nume":"Turnul Alb"
+      },
+      {
+        "coord1":45.64251233429478,
+        "coord2":25.587143899961372,
+        "nume":"Catacombele din Brasov"
+      },
+      {
+        "coord1":45.64120471946301,
+        "coord2":25.588664173646656,
+        "nume":"Biserica Neagra"
+      },
+      {
+        "coord1":44.17071404498801,
+        "coord2":28.663504718670836,
+        "nume":"Cazinou"
+      }
+      ]
+  }
